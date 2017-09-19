@@ -41,7 +41,6 @@ Sí que podría ser fast-forward ya que ambas ramas se conforman siguiendo una l
 
 `git reset HEAD~1`
 
-Para deshacer el merge sin perder cambios en el working copy empleé este comando que ya que no contiene el parámetro --hard.
 
 **9. ¿Qué comando o comandos utilizaste en el paso 28?**
 
